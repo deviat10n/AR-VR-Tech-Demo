@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wall" size="1.000000 0.837838" />
+    <ImageTarget name="Rotate" size="1.000000 1.103650" />
+    <ImageTarget name="House" size="1.000000 1.090129" />
+    <ImageTarget name="Floor2" size="1.000000 1.311628" />
+    <ImageTarget name="Floor1" size="1.000000 1.317757" />
+  </Tracking>
+</QCARConfig>

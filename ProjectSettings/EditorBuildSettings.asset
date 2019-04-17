@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AR.unity
+    guid: 5180a23effde39249806964938732df5
+  - enabled: 1
+    path: Assets/VR1.unity
+    guid: bb36d2905dc634f1c9eecb35beecaca8
+  - enabled: 1
+    path: Assets/VR2.unity
+    guid: 5c4422962675bbd4d8728a04a01ff2d7
